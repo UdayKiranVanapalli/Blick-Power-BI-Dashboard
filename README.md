@@ -66,15 +66,14 @@ Sales in Household Products have grown steadily, indicating increased consumer d
 3. Sales Growth:
 From 2010 to 2020, Blinkit's total sales grew by 25%, with noticeable peaks during festive seasons.
 How to Access and Use the Dashboard
-## Click on the dashboard link: [Blinkit Sales Performance Dashboard](https://drive.google.com/drive/folders/14MG4UQ5ZNaGr1i41mz2Gp4-h1qAda07h?usp=sharing)
+## Click on the dashboard link to view screen recording: [Blinkit Sales Performance Dashboard](https://drive.google.com/drive/folders/14MG4UQ5ZNaGr1i41mz2Gp4-h1qAda07h?usp=sharing)
 
 Use interactive filters like outlet type, product category, and time period to explore various aspects of sales performance.
 Hover over visuals to view additional details and in-depth insights into Blinkit's sales metrics.
 
 Screenshots
-Overall Dashboard View
-Outlet Performance Breakdown
-Category-wise Sales Insights
+![Overall Dashboard View](https://github.com/user-attachments/assets/ee39b42c-7c62-498d-a0df-b2ac10adeafd)
+Overall Dashboard View   -   Outlet Performance Breakdown   -Category-wise Sales Insights
 # Conclusion
 The Blinkit Sales Performance Dashboard offers a detailed, real-time overview of the company's sales performance, enabling stakeholders to track outlet performance, analyze product category trends, and monitor long-term growth. It’s a valuable tool for data-driven decision-making, empowering Blinkit to optimize its sales strategy and improve customer satisfaction.
 
