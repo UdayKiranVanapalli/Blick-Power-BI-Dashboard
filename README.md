@@ -1,5 +1,7 @@
 # Blinkit Sales Performance Dashboard
 ## Dashboard Link: [Blinkit Sales Performance Dashboard](https://drive.google.com/file/d/1lZiZ8X2WLLesf_6BoXSapjNWpFZoHbU_/view?usp=drive_link)
+![Overall Dashboard View](https://github.com/user-attachments/assets/ee39b42c-7c62-498d-a0df-b2ac10adeafd)
+
 ## Problem Statement
 This dashboard provides a clear and actionable view of Blinkit's key sales performance metrics, focusing on outlet types, product categories, and sales trends over time. Its purpose is to help stakeholders make informed decisions based on real-time sales data.
 
@@ -71,9 +73,6 @@ How to Access and Use the Dashboard
 Use interactive filters like outlet type, product category, and time period to explore various aspects of sales performance.
 Hover over visuals to view additional details and in-depth insights into Blinkit's sales metrics.
 
-Screenshots
-![Overall Dashboard View](https://github.com/user-attachments/assets/ee39b42c-7c62-498d-a0df-b2ac10adeafd)
-Overall Dashboard View   -   Outlet Performance Breakdown   -Category-wise Sales Insights
 # Conclusion
 The Blinkit Sales Performance Dashboard offers a detailed, real-time overview of the company's sales performance, enabling stakeholders to track outlet performance, analyze product category trends, and monitor long-term growth. It’s a valuable tool for data-driven decision-making, empowering Blinkit to optimize its sales strategy and improve customer satisfaction.
 
